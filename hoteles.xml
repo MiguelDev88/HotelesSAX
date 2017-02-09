@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listaHoteles>
+   <hotel ID="11" categoría="111">
+      <nombre idioma="111">111</nombre>
+      <poblacion>111</poblacion>
+      <precio>654</precio>
+   </hotel>
+    <hotel ID="55555" categoría="55555">
+      <nombre idioma="55555">55555</nombre>
+      <poblacion>55555</poblacion>
+      <precio>55555</precio>
+      <cadena>55555</cadena>
+   </hotel>
+    <hotel ID="766" categoría="766">
+      <nombre idioma="766">766</nombre>
+      <poblacion>776</poblacion>
+      <precio>766</precio>
+   </hotel>
+	<hotel ID="9999" categoría="super">
+      <nombre idioma="hola">hola</nombre>
+      <poblacion>vigo</poblacion>
+      <precio>999</precio>
+      <cadena>55555</cadena>
+   </hotel>
+   <hotel ID="5454" categoría="superior">
+      <nombre idioma="222">222</nombre>
+      <poblacion>222</poblacion>
+      <precio>222</precio>
+      <cadena>55555</cadena>
+   </hotel>
+</listaHoteles>
