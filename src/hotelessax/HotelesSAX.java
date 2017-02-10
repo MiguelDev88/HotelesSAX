@@ -18,9 +18,7 @@ public class HotelesSAX {
         try {  
             
 	    XMLReader reader = XMLReaderFactory.createXMLReader();  
-            
 	    reader.setContentHandler(new XMLHandler());
-            
             reader.parse(new InputSource(new FileInputStream("hoteles.xml")));
         
         } catch (SAXException e) {
