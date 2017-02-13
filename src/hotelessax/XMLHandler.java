@@ -37,9 +37,9 @@ public class XMLHandler extends DefaultHandler{
    @Override  
    public void characters(char[] ch, int start, int length) throws SAXException { 
        
-       
+       System.out.println("****");
        boolean Text=false;
-
+       
        for(int i=start;i<start+length;i++){
            if((""+ch[i]).matches("[A-z0-9]"))
                Text=true;
